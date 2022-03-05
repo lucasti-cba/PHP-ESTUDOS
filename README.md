@@ -6,4 +6,11 @@
 Versão de PHP 7.1.28
 
 
- -[ ] Primeiros passos.
+ - [ x ] Primeiros passos.
+  - - Tipos.
+  - - Variaveis.
+  - - Operações.
+  - - Decisões.
+  - - Reptições.
+
+- [ ] PHP Avançado
